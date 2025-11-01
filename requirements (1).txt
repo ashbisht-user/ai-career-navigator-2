@@ -1,4 +1,19 @@
+# Core Web App Framework
 streamlit
+
+# Machine Learning and NLP
 scikit-learn
 numpy
+pandas
 
+# Sentence similarity / text encoding (if you’re using sentence-transformers)
+sentence-transformers
+
+# JSON handling and utilities
+json5
+
+# For data handling, progress tracking, and visualization
+matplotlib
+
+# Optional: Makes Streamlit UI modern and smooth
+altair
